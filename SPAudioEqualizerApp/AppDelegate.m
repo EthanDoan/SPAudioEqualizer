@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "SPAudioEqualizerVC.h"
 
 @interface AppDelegate ()
 
@@ -16,7 +17,16 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+
+    SPAudioEqualizerVC *vc = [[SPAudioEqualizerVC alloc] init];
+    vc.automaticallyAdjustsScrollViewInsets = NO;
+    
+    self.window.rootViewController = vc;
+    
+//    [(UINavigationController *)self.window.rootViewController pushViewController:vc animated:YES];
+//    [(UINavigationController *)[UIApplication sharedApplication].keyWindow.rootViewController popViewControllerAnimated:YES ];
+
+    
     return YES;
 }
 
