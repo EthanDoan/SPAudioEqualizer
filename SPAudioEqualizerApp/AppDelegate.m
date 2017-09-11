@@ -8,7 +8,6 @@
 
 #import "AppDelegate.h"
 #import "SPAudioEqualizerVC.h"
-
 @interface AppDelegate ()
 
 @end
@@ -21,7 +20,6 @@
     SPAudioEqualizerVC *vc = [[SPAudioEqualizerVC alloc] init];
     vc.automaticallyAdjustsScrollViewInsets = NO;
     self.window.rootViewController = vc;
-
     
     return YES;
 }

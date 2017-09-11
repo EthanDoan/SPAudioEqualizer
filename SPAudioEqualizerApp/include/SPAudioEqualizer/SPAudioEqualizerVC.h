@@ -31,7 +31,6 @@
 - (void)playMusic;
 - (IBAction)playPauseToggle:(UIButton *)sender;
 - (IBAction)nextButtonClicked:(UIButton *)sender;
-- (void)clean;
 
 @end
 

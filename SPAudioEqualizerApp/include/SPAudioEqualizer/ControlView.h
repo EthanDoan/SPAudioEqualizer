@@ -7,13 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
-
 #define CONTROL_VIEW_HEIGHT 60.0f
 
 @interface ControlView : UIView
 
 @property (strong, nonatomic) UIButton *playPause;
 @property (strong, nonatomic) UIButton *next;
-@property (strong, nonatomic) UILabel *nameLabel;
+@property (strong, nonatomic) UIButton *startStopRecordBtn;
 
 @end

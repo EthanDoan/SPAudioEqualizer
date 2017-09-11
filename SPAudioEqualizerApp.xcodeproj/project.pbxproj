@@ -7,37 +7,42 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		020FA9151F66E0A0002E4E4C /* libSPAudioEqualizer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 029F180D1F5432C900BABF69 /* libSPAudioEqualizer.a */; };
+		020FA91D1F66E14C002E4E4C /* 999DoaHong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA9161F66E14C002E4E4C /* 999DoaHong.mp3 */; };
+		020FA91E1F66E14C002E4E4C /* AnhCuDiDiBeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA9171F66E14C002E4E4C /* AnhCuDiDiBeat.mp3 */; };
+		020FA91F1F66E14C002E4E4C /* HoiThamNhauBeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA9181F66E14C002E4E4C /* HoiThamNhauBeat.mp3 */; };
+		020FA9201F66E14C002E4E4C /* MotNgayMuaDongBeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA9191F66E14C002E4E4C /* MotNgayMuaDongBeat.mp3 */; };
+		020FA9211F66E14C002E4E4C /* NhoOiBeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA91A1F66E14C002E4E4C /* NhoOiBeat.mp3 */; };
+		020FA9221F66E14C002E4E4C /* PhaiDauCuocTinhBeat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 020FA91B1F66E14C002E4E4C /* PhaiDauCuocTinhBeat.mp3 */; };
 		0238ACFC1F551600004F386C /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238ACFA1F551600004F386C /* CoreMedia.framework */; };
 		0238ACFD1F551600004F386C /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238ACFB1F551600004F386C /* MediaPlayer.framework */; };
 		0238ACFF1F551608004F386C /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238ACFE1F551608004F386C /* AudioToolbox.framework */; };
 		0238AD011F55160D004F386C /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238AD001F55160D004F386C /* AVFoundation.framework */; };
 		0238AD031F551615004F386C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238AD021F551615004F386C /* Foundation.framework */; };
 		0238AD051F55161B004F386C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0238AD041F55161B004F386C /* CoreGraphics.framework */; };
-		0238AD251F554E20004F386C /* DauChiRiengEm_MyTam.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0238AD211F554E20004F386C /* DauChiRiengEm_MyTam.mp3 */; };
-		0238AD261F554E20004F386C /* DemNgayXaEm_OnlyC_LouHoang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0238AD221F554E20004F386C /* DemNgayXaEm_OnlyC_LouHoang.mp3 */; };
-		0238AD271F554E20004F386C /* Despacito_LuisFonsi_DaddyYankee.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0238AD231F554E20004F386C /* Despacito_LuisFonsi_DaddyYankee.mp3 */; };
-		0238AD281F554E20004F386C /* TaConThuocVeNhau_HuongTram.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 0238AD241F554E20004F386C /* TaConThuocVeNhau_HuongTram.m4a */; };
 		029F17E01F5431E200BABF69 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 029F17DF1F5431E200BABF69 /* main.m */; };
 		029F17E31F5431E200BABF69 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 029F17E21F5431E200BABF69 /* AppDelegate.m */; };
 		029F17E91F5431E200BABF69 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 029F17E71F5431E200BABF69 /* Main.storyboard */; };
 		029F17EB1F5431E200BABF69 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 029F17EA1F5431E200BABF69 /* Assets.xcassets */; };
 		029F17EE1F5431E200BABF69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 029F17EC1F5431E200BABF69 /* LaunchScreen.storyboard */; };
-		029F180E1F5432C900BABF69 /* libSPAudioEqualizer.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 029F180D1F5432C900BABF69 /* libSPAudioEqualizer.a */; };
 		029F182E1F54330B00BABF69 /* SuperpoweredIOSAudioIO.mm in Sources */ = {isa = PBXBuildFile; fileRef = 029F18211F54330B00BABF69 /* SuperpoweredIOSAudioIO.mm */; };
 		029F182F1F54330B00BABF69 /* SuperpoweredNBandEQ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 029F18241F54330B00BABF69 /* SuperpoweredNBandEQ.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		020FA9161F66E14C002E4E4C /* 999DoaHong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 999DoaHong.mp3; sourceTree = "<group>"; };
+		020FA9171F66E14C002E4E4C /* AnhCuDiDiBeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = AnhCuDiDiBeat.mp3; sourceTree = "<group>"; };
+		020FA9181F66E14C002E4E4C /* HoiThamNhauBeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = HoiThamNhauBeat.mp3; sourceTree = "<group>"; };
+		020FA9191F66E14C002E4E4C /* MotNgayMuaDongBeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MotNgayMuaDongBeat.mp3; sourceTree = "<group>"; };
+		020FA91A1F66E14C002E4E4C /* NhoOiBeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = NhoOiBeat.mp3; sourceTree = "<group>"; };
+		020FA91B1F66E14C002E4E4C /* PhaiDauCuocTinhBeat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PhaiDauCuocTinhBeat.mp3; sourceTree = "<group>"; };
+		020FA91C1F66E14C002E4E4C /* PlaybackViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaybackViewController.h; sourceTree = "<group>"; };
 		0238ACFA1F551600004F386C /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		0238ACFB1F551600004F386C /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		0238ACFE1F551608004F386C /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		0238AD001F55160D004F386C /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		0238AD021F551615004F386C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0238AD041F55161B004F386C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		0238AD211F554E20004F386C /* DauChiRiengEm_MyTam.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DauChiRiengEm_MyTam.mp3; sourceTree = "<group>"; };
-		0238AD221F554E20004F386C /* DemNgayXaEm_OnlyC_LouHoang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DemNgayXaEm_OnlyC_LouHoang.mp3; sourceTree = "<group>"; };
-		0238AD231F554E20004F386C /* Despacito_LuisFonsi_DaddyYankee.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Despacito_LuisFonsi_DaddyYankee.mp3; sourceTree = "<group>"; };
-		0238AD241F554E20004F386C /* TaConThuocVeNhau_HuongTram.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = TaConThuocVeNhau_HuongTram.m4a; sourceTree = "<group>"; };
 		029F17DB1F5431E200BABF69 /* SPAudioEqualizerApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPAudioEqualizerApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		029F17DF1F5431E200BABF69 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		029F17E11F5431E200BABF69 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -49,7 +54,6 @@
 		029F17FF1F5432B400BABF69 /* ControlView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlView.h; sourceTree = "<group>"; };
 		029F18021F5432B400BABF69 /* ReverbView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReverbView.h; sourceTree = "<group>"; };
 		029F18031F5432B400BABF69 /* SingleFilterView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingleFilterView.h; sourceTree = "<group>"; };
-		029F18041F5432B400BABF69 /* SPAudioEqualizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPAudioEqualizer.h; sourceTree = "<group>"; };
 		029F18051F5432B400BABF69 /* SPAudioEqualizerVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPAudioEqualizerVC.h; sourceTree = "<group>"; };
 		029F180D1F5432C900BABF69 /* libSPAudioEqualizer.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libSPAudioEqualizer.a; path = SPAudioEqualizerApp/libSPAudioEqualizer.a; sourceTree = "<group>"; };
 		029F18101F54330B00BABF69 /* Superpowered3BandEQ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Superpowered3BandEQ.h; sourceTree = "<group>"; };
@@ -89,19 +93,32 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				020FA9151F66E0A0002E4E4C /* libSPAudioEqualizer.a in Frameworks */,
 				0238AD051F55161B004F386C /* CoreGraphics.framework in Frameworks */,
 				0238AD031F551615004F386C /* Foundation.framework in Frameworks */,
 				0238AD011F55160D004F386C /* AVFoundation.framework in Frameworks */,
 				0238ACFF1F551608004F386C /* AudioToolbox.framework in Frameworks */,
 				0238ACFC1F551600004F386C /* CoreMedia.framework in Frameworks */,
 				0238ACFD1F551600004F386C /* MediaPlayer.framework in Frameworks */,
-				029F180E1F5432C900BABF69 /* libSPAudioEqualizer.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		020FA9241F66E199002E4E4C /* source */ = {
+			isa = PBXGroup;
+			children = (
+				020FA9161F66E14C002E4E4C /* 999DoaHong.mp3 */,
+				020FA9171F66E14C002E4E4C /* AnhCuDiDiBeat.mp3 */,
+				020FA9181F66E14C002E4E4C /* HoiThamNhauBeat.mp3 */,
+				020FA9191F66E14C002E4E4C /* MotNgayMuaDongBeat.mp3 */,
+				020FA91A1F66E14C002E4E4C /* NhoOiBeat.mp3 */,
+				020FA91B1F66E14C002E4E4C /* PhaiDauCuocTinhBeat.mp3 */,
+			);
+			name = source;
+			sourceTree = "<group>";
+		};
 		029F17D21F5431E200BABF69 = {
 			isa = PBXGroup;
 			children = (
@@ -155,14 +172,11 @@
 		029F17FE1F5432B400BABF69 /* SPAudioEqualizer */ = {
 			isa = PBXGroup;
 			children = (
-				0238AD211F554E20004F386C /* DauChiRiengEm_MyTam.mp3 */,
-				0238AD221F554E20004F386C /* DemNgayXaEm_OnlyC_LouHoang.mp3 */,
-				0238AD231F554E20004F386C /* Despacito_LuisFonsi_DaddyYankee.mp3 */,
-				0238AD241F554E20004F386C /* TaConThuocVeNhau_HuongTram.m4a */,
+				020FA9241F66E199002E4E4C /* source */,
+				020FA91C1F66E14C002E4E4C /* PlaybackViewController.h */,
 				029F17FF1F5432B400BABF69 /* ControlView.h */,
 				029F18021F5432B400BABF69 /* ReverbView.h */,
 				029F18031F5432B400BABF69 /* SingleFilterView.h */,
-				029F18041F5432B400BABF69 /* SPAudioEqualizer.h */,
 				029F18051F5432B400BABF69 /* SPAudioEqualizerVC.h */,
 			);
 			path = SPAudioEqualizer;
@@ -279,13 +293,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				020FA91E1F66E14C002E4E4C /* AnhCuDiDiBeat.mp3 in Resources */,
 				029F17EE1F5431E200BABF69 /* LaunchScreen.storyboard in Resources */,
-				0238AD261F554E20004F386C /* DemNgayXaEm_OnlyC_LouHoang.mp3 in Resources */,
-				0238AD281F554E20004F386C /* TaConThuocVeNhau_HuongTram.m4a in Resources */,
-				0238AD251F554E20004F386C /* DauChiRiengEm_MyTam.mp3 in Resources */,
+				020FA9201F66E14C002E4E4C /* MotNgayMuaDongBeat.mp3 in Resources */,
 				029F17EB1F5431E200BABF69 /* Assets.xcassets in Resources */,
-				0238AD271F554E20004F386C /* Despacito_LuisFonsi_DaddyYankee.mp3 in Resources */,
+				020FA9211F66E14C002E4E4C /* NhoOiBeat.mp3 in Resources */,
+				020FA9221F66E14C002E4E4C /* PhaiDauCuocTinhBeat.mp3 in Resources */,
+				020FA91F1F66E14C002E4E4C /* HoiThamNhauBeat.mp3 in Resources */,
 				029F17E91F5431E200BABF69 /* Main.storyboard in Resources */,
+				020FA91D1F66E14C002E4E4C /* 999DoaHong.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,6 +436,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = RC9B9M5SNE;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = SPAudioEqualizerApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -427,7 +444,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SPAudioEqualizerApp",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = phuong.project.SPAudioEqualizerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = phuong.com.project.SPAudioEqualizerApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -438,6 +455,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = RC9B9M5SNE;
+				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = SPAudioEqualizerApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -445,7 +463,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/SPAudioEqualizerApp",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = phuong.project.SPAudioEqualizerApp;
+				PRODUCT_BUNDLE_IDENTIFIER = phuong.com.project.SPAudioEqualizerApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
