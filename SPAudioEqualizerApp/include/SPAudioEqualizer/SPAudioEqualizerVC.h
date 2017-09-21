@@ -20,6 +20,7 @@
 @property (strong, nonatomic) NSMutableArray *songs;
 @property (assign, nonatomic) NSInteger index;
 @property (strong, nonatomic) ControlView *controlView;
+@property (strong, nonatomic) UIImage *screenshot;
 
 - (void)addResonantFilterView;
 - (void)addShelfFilterView;

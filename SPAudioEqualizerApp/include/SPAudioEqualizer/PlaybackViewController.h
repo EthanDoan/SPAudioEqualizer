@@ -10,4 +10,6 @@
 
 @interface PlaybackViewController : UIViewController
 
+@property (strong, nonatomic) UIImage *screenshot;
+
 @end

@@ -14,5 +14,6 @@
 @property (strong, nonatomic) UIButton *playPause;
 @property (strong, nonatomic) UIButton *next;
 @property (strong, nonatomic) UIButton *startStopRecordBtn;
+@property (strong, nonatomic) UIButton *restartBtn;
 
 @end
